@@ -1,3 +1,12 @@
-### Hi I am Rocio 👋
 
-I am senior software engineer manager.
+# Hi, I'm Rocio! 👋
+
+  
+## 🚀 About Me
+I'm a full stack developer...
+
+  
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+  
